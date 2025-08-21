@@ -32,8 +32,8 @@ The following steps were applied to the dataset:
 
 ## Files
 
-* **BBD\_Wireless\_Speakers\_Cleaned.xlsx** – cleaned dataset.
-* **BBD\_Wireless\_Speakers\_Cleaned\_Styled.xlsx** – styled version with formatting for portfolio presentation.
+* **BBD\_Wireless\_Speakers\_Raw.xlsx** – raw dataset.
+* **BBD\_Wireless\_Speakers\_Cleaned.xlsx** – cleaned and formatted dataset.
 
 ## Key Takeaways
 
