@@ -8,7 +8,7 @@ Got it — here’s a **concise, professional README** draft you can drop straig
 
 This project focuses on cleaning and preparing survey data on wireless speaker usage and consumer preferences. The dataset was originally collected through Google Forms and exported to Excel. The objective was to demonstrate data cleaning and organization practices that make the dataset ready for analysis and visualization.
 
-The cleaned dataset can now be used for:
+Uses:
 
 * Exploratory data analysis (EDA).
 * Visualization in Tableau, Power BI, or Python.
