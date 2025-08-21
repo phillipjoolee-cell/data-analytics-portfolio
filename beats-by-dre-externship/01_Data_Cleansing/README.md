@@ -1,7 +1,3 @@
-Got it — here’s a **concise, professional README** draft you can drop straight into your repo:
-
----
-
 # Wireless Speakers Consumer Survey – Data Cleaning
 
 ## Project Overview
