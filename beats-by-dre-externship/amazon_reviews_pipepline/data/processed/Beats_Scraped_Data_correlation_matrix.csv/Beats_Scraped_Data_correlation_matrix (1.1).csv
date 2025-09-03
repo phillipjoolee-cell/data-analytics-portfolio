@@ -1,0 +1,4 @@
+﻿var1,var2,corr,abs_corr
+rating,review_length_chars,-0.016033309,0.016033309
+helpful_count,review_length_chars,-0.009200645,0.009200645
+rating,helpful_count,0.004298854,0.004298854
