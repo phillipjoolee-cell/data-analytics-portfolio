@@ -1,0 +1,12 @@
+action,value
+Loaded rows,4990
+Columns (original),11
+Duplicate rows removed,0
+Removed rows missing both rating and review text,0
+Final rows,4990
+Final columns,12
+Rating column,rating
+Review text column,review_id
+Date column,Not found
+Product column,product_id
+Verified column,is_verified

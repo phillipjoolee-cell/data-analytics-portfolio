@@ -1,0 +1,13 @@
+column,dtype,example
+review_id,object,R1TIU27G892G8N
+product_id,object,B09GJVTRNZ
+title,object,5.0 out of 5 stars Best for modern music; fine for general purpose use
+author,object,Glut & Lack: troublemaking twins
+rating,int64,5
+content,object,"Love this little speaker for the music I (and most of us) listen to. Extremely bass heavy, so it's great for the thumpin…"
+timestamp,object,"Reviewed in the United States January 14, 2025"
+profile_id,object,AEMU5GYR7E7YH5B64AKBUNZ5Y4PA
+is_verified,bool,True
+helpful_count,int64,19
+product_attributes,object,"Color: Blue, Style: Flip 6"
+review_length_chars,int64,14
