@@ -19,7 +19,7 @@ This folder has all the Python scripts I used to take raw Amazon reviews (Beats 
 7. **`gemini_api.py`** (optional, last step)  
    Uses Gemini AI to pull themes and strategy-level insights from reviews. Organizes language into business-friendly takeaways. Requires a Gemini API key and quota.
 
-## Inputs and Outputs
+## I/O
 
 - Starting file: `Beats_Scraped_Data.csv` (the raw OxyLabs export)  
 - Intermediate files:  
