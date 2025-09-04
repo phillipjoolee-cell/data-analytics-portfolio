@@ -6,5 +6,5 @@ This folder contains partially processed datasets — cleaned but not fully fina
 - Beats_Scraped_Data_Pandas_EDA.xlsx – exploratory analysis results from pandas (summaries, distributions).
 - Beats_Scraped_Data_sentiment.xlsx – reviews labeled with sentiment scores and summaries of polarity.
 
-# How it connects
-These files sit in the middle — they show my cleaning and prep work before pushing the data into final processed outputs.
+# Connection
+These files sit in the middle; they show my cleaning and prep work before pushing the data into final processed outputs.
