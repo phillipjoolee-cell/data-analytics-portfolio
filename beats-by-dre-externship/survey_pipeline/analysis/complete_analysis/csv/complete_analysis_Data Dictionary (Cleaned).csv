@@ -1,0 +1,36 @@
+Column Name,Description,Cleaning Notes
+Timestamp,Survey submission timestamp.,Anonymized as ##### to preserve privacy
+Email Address,Respondent email address.,Trimmed; left as text.
+Do you own a wireless speaker?,Ownership status.,Missing filled with 'N/A'.
+How often do you use your wireless speaker?,Frequency of use.,Missing filled with 'N/A'.
+How would you rate the sound quality of your wireless speaker?,Sound quality rating.,Standardized; missing 'N/A'.
+Please tell us a bit more about your rating of the sound quality of your wireless speaker. ,Sound quality rating.,Standardized; missing 'N/A'.
+What's most important to you in a wireless speaker? [Sound quality],Feature importance ranking.,Converted to numeric scale.
+What's most important to you in a wireless speaker? [Battery life],Feature importance ranking.,Converted to numeric scale.
+What's most important to you in a wireless speaker? [Design/Looks],Feature importance ranking.,Converted to numeric scale.
+"What's most important to you in a wireless speaker? [Connectivity options (e.g., Bluetooth, Wi-Fi)]",Feature importance ranking.,Converted to numeric scale.
+What's most important to you in a wireless speaker? [Durability],Feature importance ranking.,Converted to numeric scale.
+What's most important to you in a wireless speaker? [Price],Feature importance ranking.,Converted to numeric scale.
+Which brands of wireless speakers do you own or have used before? (Select all that apply) ,Survey response column.,Trimmed and standardized.
+"What made you buy your current wireless speaker? Rate each factor from 1 to 5, where 1 is ""Not Important"" and 5 is ""Very Important."" [Recommendation from friends/family]",Survey response column.,Trimmed and standardized.
+"What made you buy your current wireless speaker? Rate each factor from 1 to 5, where 1 is ""Not Important"" and 5 is ""Very Important."" [Online reviews from other customers ]",Survey response column.,Trimmed and standardized.
+"What made you buy your current wireless speaker? Rate each factor from 1 to 5, where 1 is ""Not Important"" and 5 is ""Very Important."" [Expert reviews]",Survey response column.,Trimmed and standardized.
+"What made you buy your current wireless speaker? Rate each factor from 1 to 5, where 1 is ""Not Important"" and 5 is ""Very Important."" [Brand reputation]",Survey response column.,Trimmed and standardized.
+"What made you buy your current wireless speaker? Rate each factor from 1 to 5, where 1 is ""Not Important"" and 5 is ""Very Important."" [Price]",Survey response column.,Trimmed and standardized.
+"What made you buy your current wireless speaker? Rate each factor from 1 to 5, where 1 is ""Not Important"" and 5 is ""Very Important."" [Specific features]",Survey response column.,Trimmed and standardized.
+"What made you buy your current wireless speaker? Rate each factor from 1 to 5, where 1 is ""Not Important"" and 5 is ""Very Important."" [Advertising]",Survey response column.,Trimmed and standardized.
+How happy are you with your wireless speaker?,Survey response column.,Trimmed and standardized.
+What would make your wireless speaker better?,Survey response column.,Trimmed and standardized.
+What do you mostly use your wireless speaker for? (Select all that apply),Survey response column.,Trimmed and standardized.
+Have any other lifestyle changes in the past year changed how you use wireless speakers? (Select all that apply),Lifestyle impacts.,Multiple-choice; missing 'N/A'.
+How much did you spend on your wireless speaker? (US dollars),Spending category.,Standardized ranges; missing 'N/A'.
+How likely are you to buy a new wireless speaker in the next 12 months?,Likelihood to buy (1–5).,Converted numeric; missing 'N/A'.
+Where do you like to buy wireless speakers?,Preferred purchase location.,Categorical; missing 'N/A'.
+How do you think about and evaluate the price when buying a wireless speaker? ,Open-text on pricing.,Trimmed; proper case.
+How old are you?,Age group.,Missing 'N/A'.
+What is your gender?,Gender.,Missing 'N/A'.
+What's your annual household income?,Household income range.,Missing 'N/A'.
+"Thanks a bunch for completing our survey! Your feedback is super valuable and will help us understand what consumers want. 
+
+If you have any extra comments or feedback, please share them below.",Final comments.,Trimmed; proper case.
+Score,Survey scoring field.,Mostly empty; left as-is.

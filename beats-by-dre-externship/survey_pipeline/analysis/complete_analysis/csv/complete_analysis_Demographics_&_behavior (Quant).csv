@@ -1,0 +1,55 @@
+Categorical Question,Response,Count,Percentage (%),Interpretation
+Do you own a wireless speaker?,Yes,3490.0,71.14,Market growth is primarily going to be from replacements/upgrades rather than frist-time buyers because the data suggests that a majority already own a speaker.
+Do you own a wireless speaker?,No,1416.0,28.86,"71% own, 29% do not."
+How often do you use your wireless speaker?,Several times a week,1193.0,34.18,Speakers are suggested to be everyday products due to the high engagement.
+How often do you use your wireless speaker?,Daily,1031.0,29.54,64% use their speaker daily or several times a week.
+How often do you use your wireless speaker?,1-3 times a month,463.0,13.27,36% of users also use their speakers occassionally 
+How often do you use your wireless speaker?,Rarely (fewer than once a month),415.0,11.89,
+How often do you use your wireless speaker?,Once a week,388.0,11.12,
+How would you rate the sound quality of your wireless speaker?,Good,1760.0,50.43,"Though general satisfaction is high, the small 1.7% group that shows dissatisfaction can be a target for upgrades."
+How would you rate the sound quality of your wireless speaker?,Excellent,1155.0,33.09,"83% rated their speaker as ""good"" or ""excellent"""
+How would you rate the sound quality of your wireless speaker?,Average,515.0,14.76,"16% rate their sound quality as average or worse, meaning that there is still room for upgrades."
+How would you rate the sound quality of your wireless speaker?,Poor,50.0,1.43,
+How would you rate the sound quality of your wireless speaker?,Very Poor,10.0,0.29,
+How much did you spend on your wireless speaker? (US dollars),Less than $50,1107.0,31.72,The premium models make up a small niche of consumers whereas most are price-senstitive and place themselves in the budget to mid range.
+How much did you spend on your wireless speaker? (US dollars),$50 to $100,1209.0,34.64,66% spend $100 or less and 10% spend more than $200.
+How much did you spend on your wireless speaker? (US dollars),$100 to $200,818.0,23.44,
+How much did you spend on your wireless speaker? (US dollars),$200 to $300,239.0,6.85,
+How much did you spend on your wireless speaker? (US dollars),More than $300,117.0,3.36,
+Where do you like to buy wireless speakers?,"Large multi-brand stores (e.g., Amazon)",1591.0,62.5,Large multi-brand stores like Amazon are king. Not enough incentive for consumers to buy directly from brands.
+Where do you like to buy wireless speakers?,Multi-brand electronics stores (an actual physical store selling ONLY electronics from a variety of brands),724.0,14.2,62% buy from large multi-brand stores and 9% buy directly from the brands.
+Where do you like to buy wireless speakers?,Department stores (physical store that sells electronics alongside many other products),628.0,12.4,"25% of pruchases come from department stores, brand websites, or niche retailers."
+Where do you like to buy wireless speakers?,Brand websites,473.0,9.3,
+Where do you like to buy wireless speakers?,"Other (Target, Gifted, etc.)",79.0,1.6,
+How old are you?,18-24,2384.0,68.31,The results come from a majority student to early-career perspectives .
+How old are you?,25-34,632.0,18.11,86% of respondents are under 35 and 68% are 18-24.
+How old are you?,Under 18,147.0,4.21,The survey underrepresents those older than 35 because they only make up 15% of the respondents.
+How old are you?,35-44,144.0,4.13,
+How old are you?,45-54,123.0,3.52,
+How old are you?,55-64,51.0,1.46,
+How old are you?,65 and over,9.0,0.26,
+What is your gender?,Female,1803.0,51.66,Gender is fairly split.
+What is your gender?,Male,1591.0,45.59,52% female and 46% male
+What is your gender?,Prefer not to say,49.0,1.4,
+What is your gender?,Non-binary/Third gender,47.0,1.35,
+What's your annual household income?,Prefer not to say,1056.0,30.26,Respondents are price-sensitive and skew towards lower income.
+What's your annual household income?,"Less than $25,000",800.0,22.92,"23% are ""<25k"" and 14 ""> $100k"""
+What's your annual household income?,"More than $100,000",499.0,14.3,
+What's your annual household income?,"$25,000-$50,000",493.0,14.13,
+What's your annual household income?,"$50,000-$75,000",354.0,10.14,
+What's your annual household income?,"$75,000-$100,000",288.0,8.25,
+,,,,
+Numerical Question,,,,
+What's most important to you in a wireless speaker? [Sound quality],,,,
+What's most important to you in a wireless speaker? [Battery life],,,,
+What's most important to you in a wireless speaker? [Design/Looks],,,,
+"What's most important to you in a wireless speaker? [Connectivity options (e.g., Bluetooth, Wi-Fi)]",,,,
+What's most important to you in a wireless speaker? [Durability],,,,
+What's most important to you in a wireless speaker? [Price],,,,
+How likely are you to buy a new wireless speaker in the next 12 months?,,,,
+,,,,
+,,,,
+Takeaways,,,,
+"A majority of the respondents are 18-24, lower income, and already in ownership of a speaker. Prioritize speakers that are affordable and portable.",,,,
+High ownership suggests that upgrades will be the main avenue for market growth.,,,,
+"Brand-direct sales are grossly, undermined by Amazon and large retailers that dominate purchasing channels.",,,,

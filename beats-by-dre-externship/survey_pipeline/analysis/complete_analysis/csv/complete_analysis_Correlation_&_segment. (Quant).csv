@@ -1,0 +1,69 @@
+Variable Pair,Correlation (r),Interpretation,Unnamed: 3,Unnamed: 4,Unnamed: 5
+[Sound quality] vs. [Battery life],0.435,Moderate positive correlation,,,
+[Sound quality] vs. [Design/Looks],-0.542,Moderate negative correlation,,,
+[Battery life] vs. [Price],-0.434,Moderate negative correlation,,,
+[Sound Quality] vs. [Durability],-0.423,Moderate negative correlation,,,
+"[Connectivity options (e.g., Bluetooth, Wi-Fi)] vs. How likely are you to buy a new wireless speaker in the next 12 months?",0.007,None/very weak correlation,,,
+"[Sound quality] vs. [Connectivity options (e.g., Bluetooth, Wi-Fi)]",-0.292,Weak negative correlation,,,
+[Sound quality] vs. [Price],-0.384,Moderate negative correlation,,,
+[Sound quality] vs. How likely are you to buy a new wireless speaker in the next 12 months?,0.041,Very weak positive correlation,,,
+[Battery life] vs. [Design/Looks],-0.299,Weak negative correlation,,,
+"[Battery life] vs. [Connectivity options (e.g., Bluetooth, Wi-Fi)]",-0.307,Weak negative correlation,,,
+[Battery life] vs. [Durability],-0.361,Moderate negative correlation,,,
+[Battery life] vs. How likely are you to buy a new wireless speaker in the next 12 months?,0.006,None/very weak correlation,,,
+"[Design/Looks] vs. [Connectivity options (e.g., Bluetooth, Wi-Fi)]",0.067,Very weak positive correlation,,,
+[Design/Looks] vs. [Durability],-0.025,None/very weak correlation,,,
+[Design/Looks] vs. [Price],-0.153,Very weak negative correlation,,,
+[Design/Looks] vs. How likely are you to buy a new wireless speaker in the next 12 months?,-0.043,Very weak negative correlation,,,
+"[Connectivity options (e.g., Bluetooth, Wi-Fi)] vs. [Durability]",-0.087,Very weak negative correlation,,,
+"[Connectivity options (e.g., Bluetooth, Wi-Fi)] vs. [Price]",-0.153,Very weak negative correlation,,,
+[Durability] vs. [Price],0.071,Very weak positive correlation,,,
+[Durability] vs. How likely are you to buy a new wireless speaker in the next 12 months?,-0.006,None/very weak correlation,,,
+[Price] vs. How likely are you to buy a new wireless speaker in the next 12 months?,-0.011,None/very weak correlation,,,
+,,,,,
+Top Correlation Pairs,Correlation (r),Interpretation,,,
+[Sound quality] vs. [Design/Looks],-0.542,Moderate negative correlation,Consumers tend to trade off functions or aesthetics because consumers that value sound quality tend to deprioritize design/looks.,,
+[Sound quality] vs. [Battery life],0.435,Moderate positive correlation,Consumers that value performance expect both a long battery life and good sound quality.,,
+[Battery life] vs. [Price],-0.434,Moderate negative correlation,Consumers that are price sensitive/on a budget trade off premium features (like long battery life) for a better price.,,
+[Sound quality] vs. [Durability],-0.423,Moderate negative correlation,Consumers that prioritize sound deprioritize durability. Divided based on needs between indoor users and outdoor/practical users.,,
+[Connectivity] vs. [Likelihood to buy],0.007,None/very weak correlation,"Connectiviy does not affect purchase intent meaning that the feature is an expectation, not a driver.",,
+Additional correlation insights,,,,,
+68% of heavy users (daily to several times a week) and 42% of light users (once a week or less) rated battery life as extremely important (ranked 5),,,,,
+"72% of high spenders ($200 or more) prioritize sound quality, leaving it in their top 2 consistently. As opposed to 45% in the $50 or less group.",,,,,
+,,,,,
+,,,,,
+Segmentation Type,Label,Category,Count,Percentage,Interpretation
+Age & Income,Young & Low-income,Age (18-24),1100,23,
+,,"Income (Less than $25,000)",,,More budget conscious and concerned about price over features like durability
+,Young & Mid-income,Age (18-24),,,"Still early in their carerr but have more disposable income, leading to less of a price bias. More balanced preferences. Place imporatance on sound quality and battery life, in addition to price."
+,,"Income ($25,000-$75,000)",800,16,
+,Older & Higher-income,Age(25+),,,Well into careers and are established financially. Tend to value features like durability and connectivity more. 
+,,"Income($75,000)",600,12,
+,,,,,Dataset leans toward a young demographic that are have low-mid income. Slight bias towards features that offer affordability and portability.
+,,,,,
+Gender & Likelihood,,Gender (Female),1803,,
+,,Median Likelihood = 2,,,Low pruchase intent
+,,Gender (Male),1591,,
+,,Median Likelihood = 3,,,Slightly higher purchase intent
+,,Gender (Non-binary/Prefer not to say),96,,Sample is too small to draw conclusion
+,,,,,
+Clusters,,,,,Males shows slightly higher purchase itent howeverdata was not substantial enough to be used in comparison to age/income differences.
+,Budget Conscious Students ,Age (18-24),23,,
+,,Income (less than $25k),,,Males shows slightly higher purchase itent howeverdata was not substantial in comparison to+F25 age/income differences.
+,,Priorities: Price & Portability,,,
+,,,,,Weak likelihood to buy
+,Young Professionals,Age (18-24),16,,
+,,Income ($25k - $75k),,,
+,,Priorities: Sound quality & Battery life,,,
+,,,,,Higher likelhood to upgrade within 12 months
+,Established Buyers,Age (25+),,,
+,,Priorities: Durability & Connectivity,,,
+,,,,,Strongest interest in premium models.
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Takeaway,,,,,
+"Younger, low-income respondents (<$25k) rank Price highest, confirming affordability as their top concern.",,,,,
+"Older, higher-income respondents ($75k+) place more weight on Durability and Connectivity, showing interest in premium/long-lasting models.",,,,,
+"Across genders, both value Battery Life and Sound Quality, but males showed slightly higher purchase likelihood compared to females.",,,,,
