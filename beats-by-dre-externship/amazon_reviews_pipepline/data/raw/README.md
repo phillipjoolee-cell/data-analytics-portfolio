@@ -1,4 +1,10 @@
 # Raw Data
+This folder holds the original scraped exports from Amazon reviews. These are untouched and kept for reference only.
 
-This folder stores the original scraped datasets (Amazon reviews for Beats and competitor speakers).  
-They are untouched exports, kept here for reproducibility.  
+- Source: Amazon review exports (JSON/CSV)
+- Use: Input for cleaning and pipeline scripts
+
+Note: Files are messy — duplicates, nulls, and inconsistent formats are expected.
+
+## Connection
+This is the starting point; everything else in the pipeline builds off these raw files.
