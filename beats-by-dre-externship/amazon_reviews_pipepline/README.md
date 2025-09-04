@@ -1,4 +1,4 @@
-## Amazon Reviews Analysis – Wireless Speakers (Beats by Dre vs Competitors)
+## Scraped Amazon Reviews Analysis – Wireless Speakers (Beats by Dre vs Competitors)
 # Executive Summary
 
 This project evaluates whether Beats by Dre should launch a new high-fidelity wireless speaker. The analysis shows that a launch is viable if the price remains in the $129–$199 range and battery life is at least 15 hours. Fans consistently praise sound quality and Apple ecosystem integration, while complaints center on battery performance, durability, and pricing. The recommended strategy is to extend battery life, bundle with Apple Music, and offer premium design variants to justify higher pricing. The work combines Python, Pandas, NumPy, Seaborn, Matplotlib, TextBlob, and Gemini AI.
@@ -13,7 +13,7 @@ The project began with scraping and cleaning the reviews. Data was standardized,
 
 I then created visualizations to show key patterns: ratings distributions, product comparisons, and trends over time. A correlation matrix was built to check for relationships across numeric variables, though no strong correlations emerged, reinforcing that review sentiment is subjective.
 
-Sentiment analysis with TextBlob added polarity and subjectivity scores, revealing that positive reviews often emphasize sound quality and design, while negative reviews focus on price and battery issues. Finally, Gemini AI was applied to layer executive-ready insights on top of the data, distilling why customers feel the way they do, paraphrasing representative quotes, and generating actionable recommendations across themes such as battery, connectivity, and sound.
+Sentiment analysis with TextBlob added polarity and subjectivity scores, revealing that positive reviews often emphasize sound quality and design, while negative reviews focus on price and battery issues. Finally, Gemini AI built on top of this by organizing customer language into themes, comparing Beats against competitors, and suggesting strategy-oriented recommendations. This layered approach distilled why customers feel the way they do and transformed raw reviews into executive-ready insights.
 
 # Key Insights
 
