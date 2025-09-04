@@ -44,4 +44,4 @@ If you’re using `raw/`, `interim/`, and `processed/` folders, you may need to 
    ```bash
    pip install pandas numpy matplotlib openpyxl xlsxwriter textblob google-generativeai
 
-Note: google-generativeai is only needed if you run gemini_api.py.
+Note: google-generativeai is only needed if you run gemini_api.py and all of the code was compiled and ran through Google Colab.
