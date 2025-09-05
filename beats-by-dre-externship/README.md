@@ -1,42 +1,23 @@
-# Wireless Speaker Market Research – Beats by Dre
+# Beats by Dre Market Research – Externship Project  
 
-## Executive Summary
-I analyzed survey data from 4,900+ respondents to help Beats decide whether to launch a new high-fidelity wireless speaker.  
-The results point to a **GO** decision if:  
-- Price stays between **$129–$199**  
-- Battery life is **15 hours or more**  
+This repo brings together two connected projects I built during my Beats by Dre externship.  
+Both explore whether Beats should launch a new high-fidelity wireless speaker — but from different angles.  
 
-Consumers trust Beats for sound and brand, but their buying decision mainly comes down to **price and battery life**. My recommendation: lean into sound quality and Apple ecosystem strengths while improving battery performance and sharpening pricing.
+- **Amazon Reviews Pipeline**: scraped and analyzed Amazon reviews for Beats and four competitors.  
+  - Focus: Python, pandas, NumPy, TextBlob, Seaborn/Matplotlib, Gemini AI.  
+  - Output: cleaned datasets, sentiment analysis, visualizations, and AI-driven customer themes.  
 
+- **Survey Pipeline**: analyzed 4,900+ survey responses to understand market demand and feature priorities.  
+  - Focus: Excel (functions, pivot tables, conditional formatting) and dashboard building.  
+  - Output: quantitative and qualitative analysis workbooks, executive PDF, and interactive dashboard.  
 
-## What I Did
-- Cleaned and organized the raw survey exports  
-- Ran **quantitative analysis** (demographics, ownership, purchase intent, feature priorities, spending behavior)  
-- Ran **qualitative analysis** (themes from open-ended responses)  
-- Built exec-ready deliverables in Excel and as an interactive dashboard  
+## Why It Matters  
+Together, these projects show both sides of my skillset:  
 
-This project was less about code and more about showing my ability to analyze and present business data clearly.
+- **Technical**: building reproducible pipelines, cleaning messy raw data, and applying Python/AI for insights.  
+- **Analytical**: translating survey data into clear recommendations and decision-ready deliverables.  
 
-## Workflow
-1. **Cleaning** – structured the raw dataset, filtered incomplete responses, normalized demographics  
-2. **Quantitative** – used Excel functions and pivot tables to break down demographics, intent, and feature importance  
-3. **Qualitative** – grouped open-ended responses into themes (what people love vs. where Beats falls short)  
-4. **Visualization** – built charts (bar, histogram, stacked columns, line) and dashboard-style layouts directly in Excel  
-
-## Deliverables
-- Excel workbooks: cleaned data, quantitative breakdowns, qualitative themes, and a combined “Complete Analysis” file  
-- Executive presentation (PDF)  
-- Interactive dashboard artifact for storytelling  
-
-## Key Takeaways
-- Market is mature: JBL dominates mid-range, Bose leads premium  
-- Beats can compete by fixing **battery life** and positioning pricing smartly  
-- Sweet spot is **$129–$179** — covers ~60% of buyers while protecting margins  
-- Core audience: younger, brand-aware, price-sensitive consumers  
-
-## Tools & Skills
-This project was fully Excel:  
-- Functions (`AVERAGE`, `MEDIAN`, `COUNTIF`, `IF`)  
-- Pivot tables for slicing demographics and intent  
-- Conditional formatting for quick visual cues  
-- Charts and layouts for an executive-style dashboard  
+## Repo Structure  
+- `amazon_reviews_pipeline/` – scraping, cleaning, EDA, visualizations, and analysis of Amazon reviews.  
+- `survey_pipeline/` – survey analysis and executive deliverables.  
+- `README.md` – this overview.  
