@@ -10,9 +10,11 @@ This folder contains CSV outputs from the SQL scripts.
 - `season_summary.csv`:season aggregates (avg margin, win rate, counts).  
 - `side_probs.csv`: one row per team per game (raw + fair probs, outcome).  
 - `side_summary.csv`: home vs away averages (predicted vs actual, calibration gap, games).  
-- `calibration_check.csv`: bin-level calibration (predicted, actual, gap, counts).  
-
+- `calibration_check.csv`: bin-level calibration (predicted, actual, gap, counts).
+  
 ## Notes
 - Original raw dataset was the [NBA Betting Data (2007–2025) on Kaggle](https://www.kaggle.com/).  
-- All CSVs here come from running the SQL scripts in `/sql`.  
-- These CSVs were used directly in Power BI (see `/dashboard`). 
+- `games.csv` and `game_analyze.csv` are intermediate outputs from `01_nba_games_cleaned.sql`.  
+- `nba_games_clean.csv` is the main clean table used in BI (same as `game_analyze`, just exported).  
+- All other CSVs (`season_summary`, `side_probs`, `side_summary`, `calibration_check`) come from running the rest of the SQL scripts in `/sql`.  
+- These CSVs were used directly in Power BI (see `/dashboard`).  
