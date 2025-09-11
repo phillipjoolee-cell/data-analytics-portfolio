@@ -1,17 +1,15 @@
-# Dashboard Folder
+# Dashboard
 
-This folder contains the Power BI dashboard and screenshots.
+This folder contains the Power BI dashboard and exports.
 
 ## Files
-- sportsbook_nba.pbix: The full Power BI project file.  
-- screenshots: Exported images or PDFs of each dashboard page.  
+- `sportsbook_nba.pbix` – full Power BI project file.  
+- `sports_analysis_real.pdf` – PDF export of dashboard pages.  
+- `screenshots/` – image exports of each page.
 
 ## Dashboard Pages
-1. **Executive Summary**: Trends in average overround and home win rates by season.  
-2. **Calibration**: Comparison of predicted probabilities (fair) vs. actual win rates in bins.  
-3. **Game/Team Drilldown**: Interactive table of games with filters for season and team.  
+- **Executive Summary** – trends in sportsbook margin (overround − 1) and home win rates by season.  
+- **Calibration** – predicted vs actual win rates (from `calibration_check` bins and `calibration_overall` KPIs).  
+- **Bookmaker Comparison / Drilldown** – interactive game table with season & team filters.
 
-## Notes
-- Data sources: `season_summary.csv`, `side_probs.csv`, and optionally `nba_games_clean.csv` from `/data`.  
-- Built in Power BI Desktop (free).  
-- Export the visuals as screenshots or PDF for easy viewing without Power BI installed.  
+Note: Team slicer created in Power BI (unpivot Home/Away).
