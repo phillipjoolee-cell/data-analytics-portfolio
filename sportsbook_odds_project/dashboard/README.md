@@ -5,7 +5,6 @@ This folder contains the Power BI dashboard and exports.
 ## Files
 - `sportsbook_nba.pbix` – full Power BI project file.  
 - `sports_analysis_real.pdf` – PDF export of dashboard pages.  
-- `screenshots/` – image exports of each page.
 
 ## Dashboard Pages
 - **Executive Summary** – trends in sportsbook margin (overround − 1) and home win rates by season.  
