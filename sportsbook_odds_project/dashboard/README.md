@@ -3,7 +3,7 @@
 This folder contains the Power BI dashboard and exports.  
 
 ## Files
-- `sportsbook_nba.pbix` – full Power BI project file.  
+- `sports_analysis_diff.pbix` – full Power BI project file.  
 - `sports_analysis_real.pdf` – PDF export of dashboard pages.  
 
 ## Dashboard Pages
