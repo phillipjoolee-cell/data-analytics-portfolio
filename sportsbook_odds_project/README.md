@@ -40,5 +40,3 @@ The project shows I can:
 - Take a messy, real-world dataset.  
 - Transform and enrich it fully in SQL (not just pandas/Python).  
 - Push it into Power BI and design a dashboard that communicates clearly.  
-
-It’s one thing to *know SQL* it’s another to build a pipeline, check assumptions, and make the outputs understandable to others. This repo is me doing exactly that.
