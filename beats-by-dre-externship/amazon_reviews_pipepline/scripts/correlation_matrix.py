@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""correlation_matrix
-
-Original file is located at
-    https://colab.research.google.com/drive/1JiIJlMdV_5emsmCeVJLqWnZUWdt73dCb
-"""
-
 pip install xlsxwriter
 
 import pandas as pd
